@@ -1,0 +1,31 @@
+body {
+    background-color: #678920;
+    text-align: center;
+}
+
+#title {
+    margin-bottom: 40px;
+}
+
+.table-user {
+    text-align: center;
+}
+
+.table-title {
+    background-color: #a87d5f;
+}
+
+.edit-box {
+    margin-top: 50px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.edit-box {
+    background-color: goldenrod;
+}
+
+#submit-create-user {
+    margin-bottom: 30px;
+}
